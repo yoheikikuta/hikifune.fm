@@ -5,7 +5,8 @@
 # Show notes for hikifune.fm
 hikifune.fm https://anchor.fm/yoheikikuta の show notes です.
 
-- Twitter hashtag は #hikifunefm でお願いします.
+- Twitter hashtag は #hikifunefm でお願いします.  
+  検索結果はこちら https://twitter.com/search?q=%23hikifunefm&src=typed_query&f=live
 - 質問や意見がある場合は Issues へどうぞ（ベストエフォートで対応します）.
 
 第 0 回：hikifune.fm とは？ [ep/000.md](ep/000.md)  
