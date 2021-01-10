@@ -18,3 +18,5 @@ hikifune.fm https://anchor.fm/yoheikikuta の show notes です.
 第 6 回：FastAPIの紹介 [ep/006.md](ep/006.md)  
 第 7 回：AlphaFold1 の論文を読んで AlphaFold2 に想いを馳せる [ep/007.md](ep/007.md)  
 第 8 回：DAWNBench の紹介 [ep/008.md](ep/008.md)  
+第 9 回：[DALL·E の理解に向けて part 1] Vision Transformer の論文を読んだ [ep/009.md](ep/009.md)  
+
