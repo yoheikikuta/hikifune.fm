@@ -24,3 +24,4 @@ hikifune.fm https://anchor.fm/yoheikikuta の show notes です.
 第 12 回：計算社会科学 [ep/012.md](ep/012.md)  
 第 13 回：[DALL·E の理解に向けて part 3] DALL·E の論文を読んだ [ep/013.md](ep/013.md)  
 第 14 回：PauliNet の論文を読んだ [ep/014.md](ep/014.md)  
+第 15 回：論文紹介 The Power of Scale for Parameter-Efficient Prompt Tuning [ep/015.md](ep/015.md)  
