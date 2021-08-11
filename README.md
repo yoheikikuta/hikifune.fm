@@ -26,3 +26,4 @@ hikifune.fm https://anchor.fm/yoheikikuta の show notes です.
 第 14 回：PauliNet の論文を読んだ [ep/014.md](ep/014.md)  
 第 15 回：論文紹介 The Power of Scale for Parameter-Efficient Prompt Tuning [ep/015.md](ep/015.md)  
 第 15.5 回：hikifunefm は不定期配信にします [ep/015_5.md](ep/015_5.md)  
+第 16 回：AlphaFold について議論する会 [ep/016.md](ep/016.md)  
