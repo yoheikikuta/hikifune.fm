@@ -28,3 +28,4 @@ hikifune.fm https://anchor.fm/yoheikikuta の show notes です.
 第 15.5 回：hikifunefm は不定期配信にします [ep/015_5.md](ep/015_5.md)  
 第 16 回：AlphaFold についてタンパク質研究者と議論する回 [ep/016.md](ep/016.md)  
 第 17 回：Optuna について Comitter と話す回 [ep/017.md](ep/017.md)  
+第 18 回：hikifunefm ラストの振り返り回 [ep/018.md](ep/018.md)  
